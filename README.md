@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sibtak-le-alayam/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Sibtak Le AlAyam](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Sibtak Le AlAyam](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
