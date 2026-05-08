@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sibtak Le AlAyam
+
+This log tracks the cryptographic history and versioning for the song **Sibtak Le AlAyam** (sibtak-le-alayam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T02:52:39.850718 | `v1` | `736ee927f9dcbdffaa27fcc93ac53bdc1a8089d50025900b7d503a78795d33cd` | `61bc33c164b8d300a2a27ab6625efad057e93ecd0e706db543bbc5a562099e8b` | `2026-05-09_sibtak-le-alayam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
